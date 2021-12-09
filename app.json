@@ -2,9 +2,9 @@
 "name": "—🧻••÷[ ɦʏքɛ_քʊʀɢɛ_ɮօȶ ]÷••🧻—",
 "repository": "https://github.com/HypeVoidSoul/PurgeBot.git",
 "stack": "container","env": {
-"API_ID": {"description": "api_id part of your Telegram API Key from my.telegram.org/apps",
+"API_ID": {"description": "7490035",
 "required": true},
-"API_HASH":{"description": "api_hash part of your Telegram API Key from my.telegram.org/apps",
+"API_HASH":{"description": "b5372503071179cba23f09f993aedbe5",
 "required": true
-},"TOKEN":{"description": "Your BotFather Token.",
+},"TOKEN":{"description": "1949832922:AAEa-RUUMIGHais-OGee8prFrytat5LZXZQ",
 "required": true}}}
